@@ -12,3 +12,7 @@ This repository contains cleaned up data for Human Activity Recognition Using Sm
 * clean.csv       - clean data set.
 * summarised.csv  - summarised data set.
 * UCI_HAR_Dataset - original dataset folder.
+
+# Running script:
+
+To generate clean.csv and summarised.csv run run_anaysis.R script.
